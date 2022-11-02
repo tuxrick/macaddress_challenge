@@ -1,0 +1,22 @@
+{
+  "name": "macaddress_challenge",
+  "version": "1.0.0",
+  "description": "whiz challenge ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuxrick/macaddress_challenge.git"
+  },
+  "author": "Ricardo Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuxrick/macaddress_challenge/issues"
+  },
+  "homepage": "https://github.com/tuxrick/macaddress_challenge#readme",
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
+}
